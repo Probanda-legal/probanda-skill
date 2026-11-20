@@ -1,0 +1,13 @@
+{
+  "name": "Probanda_Skill",
+  "description": "Probanda's /probanda skill: opens Probanda in your Chrome and sets up a new firm's profile from its website",
+  "owner": { "name": "Probanda Legal", "url": "https://github.com/Probanda-legal" },
+  "plugins": [
+    {
+      "name": "probanda",
+      "source": "./plugins/probanda",
+      "author": { "name": "Probanda Legal", "url": "https://github.com/Probanda-legal" },
+      "description": "Opens Probanda in your Chrome, waits while you sign in, and fills a new firm's Firm tab from the firm's public website"
+    }
+  ]
+}
