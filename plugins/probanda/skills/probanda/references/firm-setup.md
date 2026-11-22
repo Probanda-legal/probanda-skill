@@ -16,7 +16,7 @@ If the site shows more than one office, use the one it calls the head or main of
 
 ## 2. Fill the Firm tab
 
-Go back to the Probanda tab. Leave "Firm name" as the lawyer typed it. If the site writes the firm's name differently, mention it in your report and change nothing.
+Go back to the Probanda tab. Leave "Firm name" as it is. If the site writes the firm's name differently, mention it in your report and change nothing.
 
 For each value, click into the field with that label, type the value, then press Tab so the field loses focus:
 

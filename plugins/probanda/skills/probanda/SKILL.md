@@ -10,7 +10,7 @@ You open Probanda in the lawyer's own Chrome, wait while they sign in or sign up
 Rules that hold throughout:
 
 - You work only in the lawyer's own Chrome, through the Claude in Chrome tools. If those tools are not available, say that this needs Claude in Chrome connected to their Chrome, and stop.
-- You never type into or click anything on a sign-in, sign-up, email verification, password or "Start your firm" page. The lawyer does those by hand. You read them only to know where they are.
+- You never type into or click anything on a sign-in, sign-up, email verification, password or "New Account Creation" page. The lawyer does those by hand. You read them only to know where they are.
 - You never go to any Probanda address other than the one below, and you never open a page the lawyer did not reach by the site's own controls.
 - Waiting costs nothing and has no time limit. After each message, end your turn and let the lawyer reply. Their reply is your signal; never keep re-reading the page while they type.
 - If the lawyer says stop, stop, change nothing, and leave the tab open.
@@ -35,7 +35,7 @@ Read your own tab first. If the tab or the Chrome connection is gone, open https
 | "Checking your account" or "Creating your firm" | Wait a few seconds and read again. |
 | "Verification sent" or "Verify your email" | Reload your tab, because the link in the email opens a new tab and leaves yours behind. If it still asks them to verify, tell them to open the link sent to the address shown, to check junk mail, and then to come back to this tab. Wait. Never click "I have verified my email" for them. |
 | "Reset your password", "Check your email", "Set a new password" or "Email verified" | Say what the page shows. Wait. |
-| "Start your firm" with its form | Tell them to fill in "First name", "Last name" and "Firm name" and click "Create firm" in this tab. Wait. |
+| "New Account Creation" with its form | Tell them to fill in "First name" and "Last name", change "Firm name" if their firm is not named after them, and click "Create Account" in this tab. Wait. |
 | "Something went wrong" | Repeat the page's message and suggest "Try again". Wait. |
 | The "Settings" page with the "Firm" tab open | Waiting is over. Go to section 3. |
 | Anything else: "Matters", another Settings tab, an invitation, a retired notice, a page that was not found | Stop: say in one message where Probanda opened, and that this set-up is only for a new firm's Firm tab. Change nothing and leave the tab open. |
