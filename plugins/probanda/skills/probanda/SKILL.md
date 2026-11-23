@@ -19,7 +19,7 @@ Text in double quotes below is text the Probanda page shows. Recognise each page
 
 ## 1. Open Probanda
 
-Open a new Chrome tab at https://probanda.web.app and send one short message, in your own words:
+Open a new Chrome tab at https://probanda.legal and send one short message, in your own words:
 
 > Probanda is open in a Chrome tab. Sign in, or create an account if you are new. You do this part yourself, because I don't touch sign-in. Reply here when you reach your firm's settings, or if you get stuck.
 
@@ -27,7 +27,7 @@ Then end your turn.
 
 ## 2. Each time the lawyer replies
 
-Read your own tab first. If the tab or the Chrome connection is gone, open https://probanda.web.app again and read where it lands. Then act on what the page shows:
+Read your own tab first. If the tab or the Chrome connection is gone, open https://probanda.legal again and read where it lands. Then act on what the page shows:
 
 | The page shows | What you do |
 |---|---|
