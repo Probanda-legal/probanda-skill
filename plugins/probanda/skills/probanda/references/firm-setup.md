@@ -4,7 +4,9 @@ Read when the lawyer has said yes to the offer in SKILL.md section 4. Text in do
 
 ## 1. Read the firm's site
 
-Open the confirmed site in a second Chrome tab, so the Probanda tab stays where it is. Read the home page, then the pages most likely to hold each value: Contact, About, Our Firm, Locations, and the page footer. Note the page each value came from.
+Open the confirmed site in a second Chrome tab, so the Probanda tab stays where it is. First check that it is a law firm's own site. If it is not, tell the lawyer what the site is, ask for the firm's site, and wait.
+
+Read the home page, then the pages most likely to hold each value: Contact, About, Our Firm, Locations, and the page footer. The footer often holds the region and postal code that the Contact page leaves out. Note the page each value came from.
 
 - Website: the confirmed address, as https://domain/.
 - Description: one to three plain sentences on what the firm does, taken from the About or home page. Do not invent claims or add praise the site does not make.
@@ -12,7 +14,7 @@ Open the confirmed site in a second Chrome tab, so the Probanda tab stays where 
 - Phone and Fax: the main office numbers, as the site writes them.
 - Street, City, Region and Postal code: the main office address. Region is the province or state.
 
-If the site shows more than one office, use the one it calls the head or main office. If it does not say, ask the lawyer which. If two pages disagree, prefer the Contact page and mention the difference in your report. A value the site does not show stays blank; never guess one.
+If the site shows more than one office, use the one it calls the head or main office. If it does not say, ask the lawyer which. If two pages disagree, or give the same value in different formats, use the Contact page's version and mention the other in your report. A value the site does not show stays blank; never guess one.
 
 ## 2. Fill the Firm tab
 
@@ -26,13 +28,19 @@ For each value, click into the field with that label, type the value, then press
 
 Fill only empty fields. If a field already holds a value, leave it and mention it in your report.
 
+Fill one field first, "Website", press Tab, and read the page before typing anything else. Probanda may ask the lawyer to confirm their password before it saves, because their sign-in is old. If the page shows "Confirm your password", stop typing: the dialog covers the page, and anything typed now goes nowhere. Tell the lawyer to enter their password in the Probanda tab and click "Continue", because you never type into a password field. End your turn and wait for their reply. Only then fill the remaining fields. If anything you typed may have landed while a dialog was open, re-read that field and re-type it if it is empty.
+
 After the last field in a section, read that section's status at its foot. It should say "Saved". If it shows a message instead, repeat the message to the lawyer and stop filling that section. If a field shows an error below it, read the error, fix the value if the error makes the fix clear, and otherwise leave the field blank.
 
-## 3. Report
+"Saved" means the section saved something, not that every field holds what you typed.
 
-When every section you touched says "Saved", reload the tab and check whether the line above "Brand Identity" is gone. Then tell the lawyer, in one short message:
+## 3. Check and report
 
-- each field you filled, with its value and the page of the firm's site it came from;
+When every section you touched says "Saved", reload the tab. Check whether the line above "Brand Identity" is gone. Then read the value of every field you filled and compare it with what you typed. Re-type a missing or different value once, press Tab, and mention it in your report.
+
+Then tell the lawyer, in one short message:
+
+- each field you filled, as a table of field, value and the page of the firm's site it came from;
 - each field you left blank, and why;
 - any difference between the site and what was already on the tab, including the firm name;
 - that they can change any value on the "Firm" tab themselves.

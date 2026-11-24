@@ -51,13 +51,13 @@ On the "Firm" tab, look above "Brand Identity" for the line "Your firm profile i
 
 ## 4. The offer
 
-Open the account menu (the round picture at the top right of the page) and read the email address it shows. Close the menu. Take the part after the @ as the firm's likely website, for example someone@examplelaw.ca gives examplelaw.ca.
+Open the account menu (the round picture at the top right of the page) and read the email address it shows. If you cannot read it as text, take a screenshot of the open menu. Close the menu. Take the part after the @ as the firm's likely website, for example someone@examplelaw.ca gives examplelaw.ca.
 
 Make one offer that names the site, for example:
 
 > Your firm profile isn't set up yet. I can fill it in from examplelaw.ca, the domain of your sign-in email. Shall I?
 
-- If the domain is a shared email service rather than a firm's own (gmail.com, outlook.com, hotmail.com, icloud.com, yahoo.com, a law society or an internet provider), or you find no firm site there, say so. Ask the lawyer for the firm's website address, or offer to carry on with no website. Never search the web for the firm by its name.
+- If the domain is a shared email service rather than a firm's own (gmail.com, outlook.com, hotmail.com, icloud.com, yahoo.com, a law society or an internet provider), or you find no firm site there, say so. A domain of its own can still be personal, such as a family's domain: if the site there is not a law firm's, say so too. Ask the lawyer for the firm's website address, or offer to carry on with no website. Never search the web for the firm by its name.
 - If the lawyer names a different site, use that one.
 - If they decline, stop and change nothing.
 
