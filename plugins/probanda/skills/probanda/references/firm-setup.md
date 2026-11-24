@@ -8,6 +8,7 @@ Open the confirmed site in a second Chrome tab, so the Probanda tab stays where 
 
 Read the home page, then the pages most likely to hold each value: Contact, About, Our Firm, Locations, and the page footer. A site without one of those pages may have a home-page section with that heading instead. The footer often holds the region and postal code that the Contact page leaves out. Note the page each value came from.
 
+- Firm name: the firm's name as the site writes it, for example in its copyright line or footer, without a trailing description such as Barristers & Solicitors.
 - Website: the confirmed address, as https://domain/.
 - Description: one to three plain sentences on what the firm does, taken from the About or home page. Do not invent claims or add praise the site does not make.
 - Email: the firm's general contact address, not a single lawyer's, when the site gives one.
@@ -18,19 +19,19 @@ If the site shows more than one office, use the one it calls the head or main of
 
 ## 2. Fill the Firm tab
 
-Go back to the Probanda tab. Leave "Firm name" as it is. If the site writes the firm's name differently, mention it in your report and change nothing.
+Go back to the Probanda tab.
 
 For each value, click into the field with that label, type the value, then press Tab so the field loses focus:
 
-- under "Brand Identity": "Website", "Description"
+- under "Brand Identity": "Firm name", "Website", "Description"
 - under "Contact Details": "Email", "Phone", "Fax"
 - under "Location": "Street", "City", "Region", "Postal code"
 
-Fill only empty fields. If a field already holds a value, leave it and mention it in your report.
+Fill only empty fields. If a field already holds a value, leave it and mention it in your report. "Firm name" is the exception: it always holds a value, often the lawyer's own name from sign-up. If the site names the firm differently, replace it with the site's name, and put the old name in your report.
 
 Fill one field first, "Website", press Tab, and read the page before typing anything else. Probanda may ask the lawyer to confirm their password before it saves, because their sign-in is old. If the page shows "Confirm your password", stop typing: the dialog covers the page, and anything typed now goes nowhere. Tell the lawyer to enter their password in the Probanda tab and click "Continue", because you never type into a password field. End your turn and wait for their reply. Then re-read every field on the tab before filling the rest. Typing during the dialog may have been lost, and a password manager may have written the lawyer's sign-in address into "Email". Re-type a lost value, and replace any value you did not type with the site's value, or clear it if the field was empty before.
 
-After the last field in a section, read that section's status at its foot. It should say "Saved". If it shows a message instead, repeat the message to the lawyer and stop filling that section. If a field shows an error below it, read the error, fix the value if the error makes the fix clear, and otherwise leave the field blank.
+After the last field in a section, read that section's status at its foot. It should say "Saved". If it shows a message instead, repeat the message to the lawyer and stop filling that section. If a field shows an error below it, read the error, fix the value if the error makes the fix clear, and otherwise leave the field blank, or for "Firm name" put back the old name.
 
 "Saved" means the section saved something, not that every field holds what you typed.
 
@@ -42,7 +43,7 @@ Then tell the lawyer, in one short message:
 
 - each field you filled, as a table of field, value and the page of the firm's site it came from;
 - each field you left blank, and why;
-- any difference between the site and what was already on the tab, including the firm name;
+- any difference between the site and what was already on the tab, and the old firm name if you replaced it;
 - that they can change any value on the "Firm" tab themselves.
 
 Then stop.

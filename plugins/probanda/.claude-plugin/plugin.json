@@ -1,7 +1,7 @@
 {
   "name": "probanda",
   "displayName": "Probanda",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Opens Probanda in your Chrome, waits while you sign in, and fills a new firm's Firm tab from the firm's public website",
   "author": { "name": "Probanda Legal", "url": "https://github.com/Probanda-legal" },
   "homepage": "https://github.com/Probanda-legal/probanda-skill",
