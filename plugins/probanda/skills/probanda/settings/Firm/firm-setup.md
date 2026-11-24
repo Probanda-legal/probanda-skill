@@ -9,28 +9,27 @@ On the "Firm" tab, look above "Brand Identity" for the line "Your firm profile i
 - The line is there: the firm is not set up. Go to section 2.
 - The line is not there: say that the page does not ask for the firm profile to be set up, so there is nothing for this set-up to do. Change nothing, and stop.
 
-## 2. The offer
+## 2. Find the firm's website
 
 Open the account menu (the round picture at the top right of the page) and read the email address it shows. If you cannot read it as text, take a screenshot of the open menu. Close the menu. Take the part after the @ as the firm's likely website, for example someone@examplelaw.ca gives examplelaw.ca.
 
-Make one offer that names the site, for example:
+Do not ask whether to fill the profile. Filling is a change the lawyer can correct: every value stays editable on the "Firm" tab, you fill only empty fields, and your report lists each value with its source. Say what you are doing in one line that names the site, for example:
 
-> Your firm profile isn't set up yet. I can fill it in from examplelaw.ca, the domain of your sign-in email. Shall I?
+> Your firm profile isn't set up yet, so I'm filling it in from examplelaw.ca, the domain of your sign-in email. I'll list every value when I'm done.
 
-- If the domain is a shared email service rather than a firm's own (gmail.com, outlook.com, hotmail.com, icloud.com, yahoo.com, a law society or an internet provider), or you find no firm site there, say so. A domain of its own can still be personal, such as a family's domain: if the site there is not a law firm's, say so too. Ask the lawyer for the firm's website address, or offer to carry on with no website. Never search the web for the firm by its name.
-- If the lawyer names a different site, use that one.
-- If they decline, stop and change nothing.
+Then go to section 3 without waiting for a reply.
 
-On a yes, go to section 3.
+- If the domain is a shared email service rather than a firm's own (gmail.com, outlook.com, hotmail.com, icloud.com, yahoo.com, a law society or an internet provider), or you find no firm site there, say so instead. A domain of its own can still be personal, such as a family's domain: if the site there is not a law firm's, say so too. Ask the lawyer for the firm's website address, and wait: this asks for a fact you cannot find, not for permission. If they have no website, say there is nothing to fill the profile from, and stop. Never search the web for the firm by its name.
+- If the lawyer names a different site at any point, use that one.
 
 ## 3. Read the firm's site
 
-Open the confirmed site in a second Chrome tab, so the Probanda tab stays where it is. First check that it is a law firm's own site. If it is not, tell the lawyer what the site is, ask for the firm's site, and wait.
+Open the site in a second Chrome tab, so the Probanda tab stays where it is. First check that it is a law firm's own site. If it is not, tell the lawyer what the site is, ask for the firm's site, and wait.
 
 Read the home page, then the pages most likely to hold each value: Contact, About, Our Firm, Locations, and the page footer. A site without one of those pages may have a home-page section with that heading instead. The footer often holds the region and postal code that the Contact page leaves out. Note the page each value came from.
 
 - Firm name: the firm's name as the site writes it, for example in its copyright line or footer, without a trailing description such as Barristers & Solicitors.
-- Website: the confirmed address, as https://domain/.
+- Website: the site's address, as https://domain/.
 - Description: one to three plain sentences on what the firm does, taken from the About or home page. Do not invent claims or add praise the site does not make.
 - Email: the firm's general contact address, not a single lawyer's, when the site gives one.
 - Phone and Fax: the main office numbers, as the site writes them.
@@ -81,4 +80,4 @@ Then tell the lawyer, in one short message:
 - whether you added the logo and from which page of the site, or, if you did not, why, and that they can add one with "Upload logo" on the "Firm" tab;
 - that they can change any value on the "Firm" tab themselves.
 
-Then click the "Members" tab and follow SKILL.md section 3 from there. The firm's people are the next part of setting up a new firm, and the members offer is the only stop between the two.
+Then click the "Members" tab and follow SKILL.md section 3 from there. The firm's people are the next part of setting up a new firm, so go on without waiting for a reply to your report: adding people to the list is also a change the lawyer can correct.

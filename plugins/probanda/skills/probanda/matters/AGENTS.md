@@ -9,3 +9,4 @@
 | "My Matters" | `My Matters/` |
 | "Firm Matters" | `Firm Matters/` |
 | "Archived Matters" | `Archived Matters/` |
+| "New" | `New/` |
