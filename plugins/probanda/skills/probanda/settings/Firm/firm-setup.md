@@ -81,4 +81,4 @@ Then tell the lawyer, in one short message:
 - whether you added the logo and from which page of the site, or, if you did not, why, and that they can add one with "Upload logo" on the "Firm" tab;
 - that they can change any value on the "Firm" tab themselves.
 
-Then stop.
+Then click the "Members" tab and follow SKILL.md section 3 from there. The firm's people are the next part of setting up a new firm, and the members offer is the only stop between the two.

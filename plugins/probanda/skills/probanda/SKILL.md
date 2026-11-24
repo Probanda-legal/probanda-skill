@@ -1,6 +1,6 @@
 ---
 name: probanda
-description: Use when a lawyer types /probanda, or asks to start using Probanda, sign up for Probanda, open Probanda, or set up their firm in Probanda. Not for work inside a matter.
+description: Use when a lawyer types /probanda, or asks to start using Probanda, sign up for Probanda, open Probanda, or set up their firm or its members in Probanda. Not for work inside a matter.
 ---
 
 # Probanda
@@ -36,7 +36,7 @@ Read your own tab first. If the tab or the Chrome connection is gone, open https
 | "Checking your account" or "Creating your firm" | Wait a few seconds and read again. |
 | "Verification sent" or "Verify your email" | Reload your tab, because the link in the email opens a new tab and leaves yours behind. If it still asks them to verify, tell them to open the link sent to the address shown, to check junk mail, and then to come back to this tab. Wait. Never click "I have verified my email" for them. |
 | "Reset your password", "Check your email", "Set a new password" or "Email verified" | Say what the page shows. Wait. |
-| "New Account Creation" with its form | Tell them to fill in "First name" and "Last name", change "Firm name" if their firm is not named after them, and click "Create Account" in this tab. Wait. |
+| "New Account Creation" with its form | Tell them to fill in "First name" and "Last name" and click "Create Account" in this tab. Wait. |
 | "Something went wrong" | Repeat the page's message and suggest "Try again". Wait. |
 | Any other page | The lawyer is signed in. Go to section 3. |
 
@@ -44,9 +44,23 @@ If the lawyer says they are done twice and the page has not changed, say what th
 
 ## 3. Once the lawyer is signed in
 
-Each flow has its own file. Take the first row that fits:
+Waiting is over. This skill's folders mirror the site: one folder per page, and in it one subfolder per tab, named as the page shows the tab. Find the page that is open, by its heading or by the item lit in the left rail:
 
-| The lawyer asks for, or the signed-in page shows | What you do |
+| The page | Folder |
 |---|---|
-| The "Settings" page with the "Firm" tab open | Waiting is over. Read `references/firm-setup.md` and follow it. That file holds the whole firm-profile set-up: the check that the profile is empty, the offer, reading the firm's site, filling the Firm tab and the report. Do not make the offer or start filling before reading it. |
-| Anything else: "Matters", another Settings tab, an invitation, a retired notice, a page that was not found | Stop: say in one message where Probanda opened, and that this set-up is only for a new firm's Firm tab. Change nothing and leave the tab open. |
+| "Matters" | `matters/` |
+| "Matter", one matter's own page | `matter/` |
+| "Documents" | `documents/` |
+| "Review" | `review/` |
+| "List" | `lists/` |
+| "Characters" | `characters/` |
+| "Facts" | `facts/` |
+| "Law" | `law/` |
+| "Theory" | `theory/` |
+| "Fields" | `fields/` |
+| "Recycling" | `recycling/` |
+| "Settings" | `settings/` |
+
+Read `AGENTS.md` in the page's folder, then `AGENTS.md` in the folder of the tab that is open. A page's `AGENTS.md` holds its glossary and its tabs. A tab's holds what the tab is and its playbooks, each with when to read it. Read the playbook that fits and follow it.
+
+If the tab lists no playbook that fits, or the page is none of these (an invitation, a retired notice, a page that was not found): Stop: say in one message where Probanda opened, and that this skill has no set-up for that page yet. Change nothing and leave the tab open.
