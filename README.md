@@ -1,6 +1,8 @@
 # Probanda skill
 
-The `/probanda` skill opens [Probanda](https://probanda.legal) in your own Chrome, waits while you sign in or create your account, and offers to fill in a new firm's profile from the firm's public website.
+The `/probanda` skill helps you use [Probanda](https://probanda.legal) in your own Chrome. It opens Probanda, waits while you sign in or create your account, and then does one of these:
+
+- Firm profile set-up: offers to fill in a new firm's profile from the firm's public website.
 
 It needs Claude in Chrome connected to your Chrome. You sign in, verify your email and create your firm yourself; the skill never touches those pages.
 

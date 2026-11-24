@@ -1,8 +1,29 @@
 # Filling the Firm tab from the firm's website
 
-Read when the lawyer has said yes to the offer in SKILL.md section 4. Text in double quotes is text the Probanda page shows.
+Read when the lawyer is signed in and the page is the "Settings" page with the "Firm" tab open (SKILL.md section 3). Text in double quotes is text the Probanda page shows.
 
-## 1. Read the firm's site
+## 1. Is the firm set up?
+
+On the "Firm" tab, look above "Brand Identity" for the line "Your firm profile is not set up yet. Add your firm's website, contact details and address below." If the sections still show "Loading…", wait a few seconds and read again first.
+
+- The line is there: the firm is not set up. Go to section 2.
+- The line is not there: say that the page does not ask for the firm profile to be set up, so there is nothing for this set-up to do. Change nothing, and stop.
+
+## 2. The offer
+
+Open the account menu (the round picture at the top right of the page) and read the email address it shows. If you cannot read it as text, take a screenshot of the open menu. Close the menu. Take the part after the @ as the firm's likely website, for example someone@examplelaw.ca gives examplelaw.ca.
+
+Make one offer that names the site, for example:
+
+> Your firm profile isn't set up yet. I can fill it in from examplelaw.ca, the domain of your sign-in email. Shall I?
+
+- If the domain is a shared email service rather than a firm's own (gmail.com, outlook.com, hotmail.com, icloud.com, yahoo.com, a law society or an internet provider), or you find no firm site there, say so. A domain of its own can still be personal, such as a family's domain: if the site there is not a law firm's, say so too. Ask the lawyer for the firm's website address, or offer to carry on with no website. Never search the web for the firm by its name.
+- If the lawyer names a different site, use that one.
+- If they decline, stop and change nothing.
+
+On a yes, go to section 3.
+
+## 3. Read the firm's site
 
 Open the confirmed site in a second Chrome tab, so the Probanda tab stays where it is. First check that it is a law firm's own site. If it is not, tell the lawyer what the site is, ask for the firm's site, and wait.
 
@@ -14,10 +35,11 @@ Read the home page, then the pages most likely to hold each value: Contact, Abou
 - Email: the firm's general contact address, not a single lawyer's, when the site gives one.
 - Phone and Fax: the main office numbers, as the site writes them.
 - Street, City, Region and Postal code: the main office address. Region is the province or state.
+- Logo: the image in the site's header that links to the home page, and the address of that image file itself, often ending in .png, .jpg or .svg. A firm name written as plain text is not a logo. If no image is clearly the firm's, or several compete, there is no logo to capture.
 
 If the site shows more than one office, use the one it calls the head or main office. If it does not say, ask the lawyer which. If two pages disagree, or give the same value in different formats, use the Contact page's version and mention the other in your report. A value the site does not show stays blank; never guess one.
 
-## 2. Fill the Firm tab
+## 4. Fill the Firm tab
 
 Go back to the Probanda tab.
 
@@ -35,7 +57,19 @@ After the last field in a section, read that section's status at its foot. It sh
 
 "Saved" means the section saved something, not that every field holds what you typed.
 
-## 3. Check and report
+## 5. Add the logo
+
+Do this only after every section you filled says "Saved". Under "Brand Identity", if the page does not show the "Upload logo" button (it shows "Replace logo", or the button is disabled), skip this section: ask nothing and report nothing about it.
+
+1. In the site's tab, open the logo's image address on its own. Chrome shows the image alone on a plain dark background. Check that the whole logo is there and stands out clearly from that background; a dark logo drawn on a transparent background can vanish into it.
+2. Take a full screenshot of that tab. Never upload a zoomed view: only a full screenshot can be uploaded. Probanda trims the plain background around the logo itself.
+3. In the Probanda tab, find the file input "Logo file" and upload the screenshot to it. Never click "Upload logo": it opens a file picker you cannot see.
+4. Read the page. "Brand Identity" should say "Saved" and the button should now read "Replace logo". Zoom on the logo frame beside that button and compare it with the logo on the site: the whole logo and nothing else. If it is wrong, click "Remove logo" and check that the section says "Saved" again.
+5. If "Confirm your password" appears, handle it as in section 4, then upload again with a new screenshot.
+
+Leave the logo blank when there is no logo to capture, the image address does not show the logo alone, the logo does not stand out from the background, or an error message appears under the buttons. Never upload a doubtful image, and never guess.
+
+## 6. Check and report
 
 When every section you touched says "Saved", reload the tab. The line above "Brand Identity" should be gone; it goes as soon as the first section saves. Then read the value of every field you filled and compare it with what you typed. Re-type a missing or different value once, press Tab, and mention it in your report.
 
@@ -44,6 +78,7 @@ Then tell the lawyer, in one short message:
 - each field you filled, as a table of field, value and the page of the firm's site it came from;
 - each field you left blank, and why;
 - any difference between the site and what was already on the tab, and the old firm name if you replaced it;
+- whether you added the logo and from which page of the site, or, if you did not, why, and that they can add one with "Upload logo" on the "Firm" tab;
 - that they can change any value on the "Firm" tab themselves.
 
 Then stop.
