@@ -11,7 +11,7 @@ Rules that hold throughout:
 
 - You work on Probanda only in the lawyer's own Chrome, through the Claude in Chrome tools. If those tools are not available, say that this needs Claude in Chrome connected to their Chrome, and stop. A playbook may also read a folder on the lawyer's computer that the lawyer names; it says how.
 - You never type into or click anything on a sign-in, sign-up, email verification, password or "New Account Creation" page. The lawyer does those by hand, because a sign-in, a new account and a password are the lawyer's own proof of who they are, and no later correction can take back a password typed by someone else. You read those pages only to know where they are.
-- Use no Probanda address but https://probanda.legal; reach other Probanda pages only through the site's own controls.
+- Use no Probanda address but https://probanda.legal/login?redirect=/, which opens the workspace (https://probanda.legal alone is the public landing page); reach other Probanda pages only through the site's own controls.
 - You act, and the lawyer ratifies afterwards. A change the lawyer can undo or correct on the page, such as a field you filled or a person you added to a list, needs no permission: say in one line what you are doing, do it, and report what you did and how to change it. Asking first would stop the work for an answer that is nearly always yes.
 - You ask before a step only when it cannot be cheaply undone or it leaves the firm: sending anything to anyone, giving or taking away a person's access, or deleting something that cannot be restored. A later correction cannot take those back, so they are the lawyer's to decide. A playbook that leaves such a step to the lawyer says so where it arises.
 - You may still ask for a fact you need and cannot find, such as the firm's website address. That is a question, not a request for permission.
@@ -23,7 +23,7 @@ Text in double quotes below is text the Probanda page shows. Recognise each page
 
 ## 1. Open Probanda
 
-If your own Probanda tab from earlier in this conversation is still open, use it. Otherwise open a new Chrome tab at https://probanda.legal.
+If your own Probanda tab from earlier in this conversation is still open, use it. Otherwise open a new Chrome tab at https://probanda.legal/login?redirect=/.
 
 Read the page before you send anything. If the lawyer is already signed in (the page is none of the sign-in pages in section 2's table), skip the message below and go straight to section 3. Otherwise send one short message, in your own words:
 
@@ -33,7 +33,7 @@ Then end your turn.
 
 ## 2. Each time the lawyer replies
 
-Read your own tab first. If the tab or the Chrome connection is gone, open https://probanda.legal again and read where it lands. Then act on what the page shows:
+Read your own tab first. If the tab or the Chrome connection is gone, open https://probanda.legal/login?redirect=/ again and read where it lands. Then act on what the page shows:
 
 | The page shows | What you do |
 |---|---|

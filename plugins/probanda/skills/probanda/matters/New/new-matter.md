@@ -54,7 +54,7 @@ This table is the checklist. Work through it for each field.
 | Responsible lawyer (required) | Retainer: the lawyer who signs for the firm, or the one it names as responsible | Who signs the firm's outgoing letters | One lawyer, and that lawyer is in the form's list | Ask, suggesting the signed-in lawyer |
 | Description (required) | Retainer: the scope of the work | The originating pleading's nature of claim; the folder name | You write one short line from these sources and show it in the report | Ask |
 
-A value is **sure** when a document of the kind the table names states it outright and no other document gives a different value. To check for an existing matter for the same client, open https://probanda.legal in a second Chrome tab, click "Matters", then "Firm Matters", and search for the client. Close that tab when you are done, and go on in the "New Matter" tab.
+A value is **sure** when a document of the kind the table names states it outright and no other document gives a different value. To check for an existing matter for the same client, open https://probanda.legal/login?redirect=/ in a second Chrome tab, click "Matters", then "Firm Matters", and search for the client. Close that tab when you are done, and go on in the "New Matter" tab.
 
 Never make up a value: no guessed next number, and no responsible lawyer chosen without evidence. Spell party names as the strongest source spells them, one name to a row.
 
